@@ -14,7 +14,7 @@
 | `links_Win.txt` | Список ссылок для Windows-версии |
 | `links_MacOS.txt` | Список ссылок для macOS-версии |
 | `MacOS_updated.zip` | Готовая собранная версия для macOS |
-| `start.exe` *(в локальной версии)* | Исполняемый файл для Windows (собранный через PyInstaller) |
+| `start.exe` | Исполняемый файл для Windows (собранный через PyInstaller) |
 
 ---
 
